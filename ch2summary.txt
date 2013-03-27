@@ -1,0 +1,24 @@
+Summary statistics for story on evening news:
+
+    Risks (firsts:others)
+    Prob Early: 1.08373628617
+    Prob On Time: 0.897311775027
+    Prob late: 1.65778116662
+
+    First babies 65% more likely to be late, on time only 90% of the time.
+
+
+Summary statistics to reassure anxious patient:
+
+    First babies 38.6009517335
+    Others 38.5229144667
+    Difference in days 0.546260867443
+
+    On average there is only a difference of a half day between first babies and others
+
+
+Answer: "Do first babies arrive late?"
+
+    Pregnancy is a time of hope and excitement for couples and families, but it comes with no shortage of anxiety. One concern many have is over the differences in birth time between a first child as opposed to a second, third or other, later child. Many have the question of whether first babies arrive late.
+
+    The answer that first babies are in fact more likely to be late, but not by any amount of time significant to the child's health. First babies are 65% more likely to be late than other births, but the overall difference between the two groups is only 0.54 days.
